@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 # DATABASE REQUIRETMENTS CHOOSE :
 - MONGODB
-<h3 align="center" href="https://mongodb.com"><img src="https://allcode.com/wp-content/uploads/2022/08/f5932bc2.jpg.webp"></h3>
+<h3 align="center" href="https://cloud.mongodb.com"><img src="https://allcode.com/wp-content/uploads/2022/08/f5932bc2.jpg.webp"></h3>
 
 
 <details>
